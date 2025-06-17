@@ -49,7 +49,7 @@ pip install fastapi uvicorn python-dotenv youtube-transcript-api langgraph langc
 
 ---
 
-## Setup Instructions
+## *Setup Instructions
 
 ### ✅ *1. Clone the Repository*
 
@@ -98,3 +98,9 @@ uvicorn main:app --reload
 2. Click on the extension icon
 3. Ask a question about the video
 4. It will show a smart answer based on the transcript
+
+---
+
+## 🖥️ User Interface
+
+![Screenshot 2025-06-17 233745](https://github.com/user-attachments/assets/65e01662-eda6-4218-b4e8-a5ba97a21e38)
