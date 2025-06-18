@@ -54,8 +54,8 @@ pip install fastapi uvicorn python-dotenv youtube-transcript-api langgraph langc
 ### ✅ *1. Clone the Repository*
 
 ```bash
-git clone https://github.com/yourusername/youtube-ai-extension.git
-cd youtube-ai-extension
+git clone https://github.com/RiKo-19/ChatTube.git
+cd ChatTube
 ```
 
 ### ✅ *2. Backend Setup*
